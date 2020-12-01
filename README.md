@@ -1,1 +1,1 @@
-# Nlp-project
+ In this work we study the usage of Topic mod- elling (LSA and LDA) and multi-class text classification with Logistic regression, Naive Bayes and deep learning methods. The dataset consists of texts of three different classical au- thors. The goal of text classification is to predict probabili- ties of a text belonging to each author. For text classification modelling, I use deep learning methods (LSTM, BI-LSTM and CNN). I also analyse the impact of glove word embed- dings, dropout regularisation and kernel/bias regularisation on training.
